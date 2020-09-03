@@ -50,6 +50,7 @@ body {
     padding: 0px 10px;
     box-sizing: content-box;
     margin: 20px 0px;
+    display: block;
 }
 
 #submit {
